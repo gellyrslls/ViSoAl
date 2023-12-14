@@ -9,5 +9,6 @@
         "d:\\javafx-sdk-21.0.1\\lib\\javafx.swing.jar",
         "d:\\javafx-sdk-21.0.1\\lib\\javafx.web.jar",
         "d:\\javafx-sdk-21.0.1\\lib\\javafx-swt.jar"
-    ]
+    ],
+    "java.project.outputPath": "out"
 }

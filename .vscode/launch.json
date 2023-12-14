@@ -5,14 +5,14 @@
         "name": "RunProject",
         "request": "launch",
         "mainClass": "RunProject",
-        "projectName": "Sorting_Visualizer-master_addbb000"
+        "projectName": "ViSoAl_99e21f98"
       },
       {
         "type": "java",
-        "name": "CodeLens (Launch) - Main",
+        "name": "RunProject",
         "request": "launch",
-        "mainClass": "sortingVisualizer.RunProject",
-        "projectName": "Sorting_Visualizer-master",
+        "mainClass": "RunProject",
+        "projectName": "ViSoAl",
         "vmArgs": "--module-path D:/javafx-sdk-21.0.1/lib --add-modules javafx.controls,javafx.fxml"
       }
     ]
