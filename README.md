@@ -1,6 +1,4 @@
-# ViSoAl
-
-![Visualize Sorting Algorithms]
+# ViSoAl - Visualize Sorting Algorithms
 
 ## Description
 
@@ -19,7 +17,7 @@ ViSoAl is a JavaFX application that allows you to visualize various sorting algo
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/GaganBhatia19/SortingVisualizer.git
+    git clone https://github.com/gellyrslls/ViSoAl.git
     ```
 
 2. **Run the Application:**
