@@ -1,4 +1,7 @@
 # ViSoAl
+
+![Visualize Sorting Algorithms]
+
 ## Description
 
 ViSoAl is a JavaFX application that allows you to visualize various sorting algorithms in action. You can observe how algorithms like Bubble Sort, Insertion Sort, Selection Sort, Shell Sort, Quick Sort, and Merge Sort work by visualizing the step-by-step sorting process.
@@ -16,7 +19,7 @@ ViSoAl is a JavaFX application that allows you to visualize various sorting algo
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/gellyrslls/ViSoAl.git
+    git clone https://github.com/GaganBhatia19/SortingVisualizer.git
     ```
 
 2. **Run the Application:**
